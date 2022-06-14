@@ -15,8 +15,8 @@ Using face recognition for marking attendance |  Time and Name is also recorded
     
 ---
    
->> Usage ✨
+>> Usage [only for the project not for app ] ✨
 
-1. 
-
+1. A sample image should be stored in ImagesAttendance directory for all the people you want to mark the attendace 
+2. In the venv folder, run the python file 
 
