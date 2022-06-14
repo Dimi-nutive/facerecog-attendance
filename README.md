@@ -20,7 +20,8 @@ Using face recognition for marking attendance |  Time and Name is also recorded
 1. A sample image should be stored in ImagesAttendance directory for all the people you want to mark the attendace 
 2. In the venv folder, run the attendace project python file 
 
-Executable Application [exe]
-For exe make sure you have `cx_Freeze python` library installed. Then run setup.py with build option.
+>> Executable Application [exe]
+1. For exe make sure you have `cx_Freeze python` library installed. 
+2. Then run setup.py with build option.
 
 ```python setup.py build```
