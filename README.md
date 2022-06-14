@@ -4,7 +4,7 @@ Using face recognition for marking attendance |  Time and Name is also recorded
 ---
 
 <div id="header" align="center" >
-  <img src="https://tse3.mm.bing.net/th?id=OIP.7pszJO4pxaeoBxA6GpGyAgHaE8&pid=Api&P=0&w=252&h=168" width="200" height="200"/>
+  <img src="https://tse3.mm.bing.net/th?id=OIP.7pszJO4pxaeoBxA6GpGyAgHaE8&pid=Api&P=0&w=252&h=168" width="250" height="200"/>
 </div>
 
 <div id="badges" align="center">
