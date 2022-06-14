@@ -25,3 +25,12 @@ Using face recognition for marking attendance |  Time and Name is also recorded
 2. Then run setup.py with build option.
 
 ```python setup.py build```
+
+>> ⭐ Star Results :D
+
+If the repository reaches 20 stars I would make facerecog projects  for 3 random person in my Server [link in my profile]
+
+>>License
+
+Project is under the MIT License
+Copying the code and making it public bot without giving me credit would lead to Breaking the License law
