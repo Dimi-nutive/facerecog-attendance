@@ -12,3 +12,11 @@ Using face recognition for marking attendance |  Time and Name is also recorded
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
     </div>
+    
+---
+   
+>> Usage ✨
+
+1. 
+
+
